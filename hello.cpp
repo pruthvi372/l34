@@ -1,6 +1,3 @@
-#include<isotream>
+hello.cpp
 
-int sum(int a, int b)
-int main()
-{}
-
+good morning
